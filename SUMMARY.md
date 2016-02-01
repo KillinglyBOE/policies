@@ -16,5 +16,5 @@
    * [9125 - Attorney](policies/9000/9125.md)
    * [9130 - Committees](policies/9000/9130.md)
    * [9132 - Standing Committees](policies/9000/9132.md)
-   * [9140 - Negotiations](policies/9000/9140.md)
+   * [9140 - Board Representation](policies/9000/9140.md)
 

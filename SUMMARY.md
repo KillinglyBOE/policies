@@ -33,5 +33,5 @@
    * [9325 - Meetings](policies/9000/9325.md)
    * [9325.1 - Quorum](policies/9000/9325-1.md)
    * [9325.21 - Order of Business](policies/9000/9325-21.md)
-   * 9325.3 - Parliamentary Procedures
+   * [9325.3 - Parliamentary Procedures](policies/9000/9325-3.md)
 

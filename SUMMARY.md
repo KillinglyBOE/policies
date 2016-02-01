@@ -8,5 +8,5 @@
    * [9020 - Public Statements](policies/9000/9020.md)
    * [9030 - Commitment to Democratic Principles in Relation to Community, Staff, Students: Board-Staff Communications](policies/9000/9030.md)
    * [9030.1 - Commitment to Democratic Principles in Relation to Community, Staff, Students: Conflicts in Public Education](policies/9000/9030-1.md)
-   * 9110 - Number of Members, Terms of Office, Oath of Office
+   * [9110 - Number of Members, Terms of Office, Oath of Office](policies/9000/9110.md)
 

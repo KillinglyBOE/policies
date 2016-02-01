@@ -37,4 +37,5 @@
    * [9325.4 - Voting Method](policies/9000/9325-4.md)
    * [9326 - Minutes](policies/9000/9326.md)
    * [9330 - Board/School System Records](policies/9000/9330.md)
+   * 9350 - Hearings
 

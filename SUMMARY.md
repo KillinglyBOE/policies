@@ -36,5 +36,5 @@
    * [9325.3 - Parliamentary Procedures](policies/9000/9325-3.md)
    * [9325.4 - Voting Method](policies/9000/9325-4.md)
    * [9326 - Minutes](policies/9000/9326.md)
-   * 9330 - Board/School System Records
+   * [9330 - Board/School System Records](policies/9000/9330.md)
 

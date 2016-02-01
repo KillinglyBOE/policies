@@ -14,5 +14,5 @@
    * [9123 - Vice-Chairperson/Secretary](policies/9000/9123.md)
    * [9124 - Recording Secretary/Clerk](policies/9000/9124.md)
    * [9125 - Attorney](policies/9000/9125.md)
-   * 9130 - Committees
+   * [9130 - Committees](policies/9000/9130.md)
 

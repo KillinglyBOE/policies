@@ -1,4 +1,4 @@
-# Summary
+# Killingly Board of Education Policies
 
 * [Introduction](README.md)
 * [Section 9000 - Bylaws of the Board](policies/9000.md)

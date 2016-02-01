@@ -12,5 +12,5 @@
    * [9120 - Officers](policies/9000/9120.md)
    * [9121 - Chairperson](policies/9000/9121.md)
    * [9123 - Vice-Chairperson/Secretary](policies/9000/9123.md)
-   * 9124 - Recording Secretary/Clerk
+   * [9124 - Recording Secretary/Clerk](policies/9000/9124.md)
 

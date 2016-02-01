@@ -32,5 +32,5 @@
    * [9323 - Agenda](policies/9000/9323.md)
    * [9325 - Meetings](policies/9000/9325.md)
    * [9325.1 - Quorum](policies/9000/9325-1.md)
-   * 9325.21 - Order of Business
+   * [9325.21 - Order of Business](policies/9000/9325-21.md)
 

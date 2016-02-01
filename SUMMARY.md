@@ -18,5 +18,5 @@
    * [9132 - Standing Committees](policies/9000/9132.md)
    * [9140 - Board Representation](policies/9000/9140.md)
    * [9160 - Student Representation On The Board of Education](policies/9000/9160.md)
-   * 9221 - Filling Vacancies
+   * [9221 - Filling Vacancies](policies/9000/9221.md)
 

@@ -28,4 +28,5 @@
    * [9314 - Suspension of Policies, Bylaws and Regulations](policies/9000/9314.md)
    * [9320 - Organization](policies/9000/9320.md)
    * [9321 - Time, Place and Notification of Meetings](policies/9000/9321.md)
+   * 9322 - Public and Executive Sessions
 

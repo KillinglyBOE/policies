@@ -35,4 +35,5 @@
    * [9325.21 - Order of Business](policies/9000/9325-21.md)
    * [9325.3 - Parliamentary Procedures](policies/9000/9325-3.md)
    * [9325.4 - Voting Method](policies/9000/9325-4.md)
+   * 9326 - Minutes
 

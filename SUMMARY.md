@@ -20,4 +20,5 @@
    * [9160 - Student Representation On The Board of Education](policies/9000/9160.md)
    * [9221 - Filling Vacancies](policies/9000/9221.md)
    * [9222 - Resignation/Removal from Office/Censure](policies/9000/9222.md)
+   * 9250 - Remuneration and Reimbursement
 

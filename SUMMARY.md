@@ -17,5 +17,5 @@
    * [9130 - Committees](policies/9000/9130.md)
    * [9132 - Standing Committees](policies/9000/9132.md)
    * [9140 - Board Representation](policies/9000/9140.md)
-   * 9160 - Student Representation On The Board of Education
+   * [9160 - Student Representation On The Board of Education](policies/9000/9160.md)
 

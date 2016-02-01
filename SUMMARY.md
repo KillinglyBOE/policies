@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Section 9000 - Bylaws of the Board](chapter1.md)
+* [Section 9000 - Bylaws of the Board](policies/9000.md)
    * [9000 - Role of the Board and Members (Powers, Purposes, Duties)](policies/9000/9000.md)
    * [9010 - Limits of Authority](policies/9000/9010.md)
    * [9012 - Legal Responsibilities of Boards of Education](policies/9000/9012.md)

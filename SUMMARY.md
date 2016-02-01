@@ -30,5 +30,5 @@
    * [9321 - Time, Place and Notification of Meetings](policies/9000/9321.md)
    * [9322 - Public and Executive Sessions](policies/9000/9322.md)
    * [9323 - Agenda](policies/9000/9323.md)
-   * 9325 - Meetings
+   * [9325 - Meetings](policies/9000/9325.md)
 

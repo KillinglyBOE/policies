@@ -11,5 +11,5 @@
    * [9110 - Number of Members, Terms of Office, Oath of Office](policies/9000/9110.md)
    * [9120 - Officers](policies/9000/9120.md)
    * [9121 - Chairperson](policies/9000/9121.md)
-   * 9123 - Vice-Chairperson/Secretary
+   * [9123 - Vice-Chairperson/Secretary](policies/9000/9123.md)
 

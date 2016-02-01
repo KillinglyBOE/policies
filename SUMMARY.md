@@ -31,5 +31,5 @@
    * [9322 - Public and Executive Sessions](policies/9000/9322.md)
    * [9323 - Agenda](policies/9000/9323.md)
    * [9325 - Meetings](policies/9000/9325.md)
-   * 9325.1 - Quorum
+   * [9325.1 - Quorum](policies/9000/9325-1.md)
 

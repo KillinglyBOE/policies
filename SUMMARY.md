@@ -22,4 +22,5 @@
    * [9222 - Resignation/Removal from Office/Censure](policies/9000/9222.md)
    * [9250 - Remuneration and Reimbursement](policies/9000/9250.md)
    * [9270 - Conflict of Interest](policies/9000/9270.md)
+   * 9271 - Code of Ethics
 

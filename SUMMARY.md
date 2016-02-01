@@ -6,5 +6,5 @@
    * [9010 - Limits of Authority](policies/9000/9010.md)
    * [9012 - Legal Responsibilities of Boards of Education](policies/9000/9012.md)
    * [9020 - Public Statements](policies/9000/9020.md)
-   * 9030 - Commitment to Democratic Principles in Relation to Community, Staff, Students: Board-Staff Communications
+   * [9030 - Commitment to Democratic Principles in Relation to Community, Staff, Students: Board-Staff Communications](policies/9000/9030.md)
 

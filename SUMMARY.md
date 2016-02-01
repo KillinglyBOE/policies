@@ -23,5 +23,5 @@
    * [9250 - Remuneration and Reimbursement](policies/9000/9250.md)
    * [9270 - Conflict of Interest](policies/9000/9270.md)
    * [9271 - Code of Ethics](policies/9000/9271.md)
-   * 9311 - Formulation, Adoption, Amendment of Policies/Bylaws
+   * [9311 - Formulation, Adoption, Amendment of Policies/Bylaws](policies/9000/9311.md)
 

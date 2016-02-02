@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Section 7000 - Construction](policies/7000.md)
+   * 7000 - New Construction
 * [Section 0000 - Missions/Goals/Objectives](policies/0000.md)
    * [0000 - Mission](policies/0000/0000.md)
    * [0200 - Goals](policies/0000/0200.md)

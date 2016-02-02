@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Section 0000 - Missions/Goals/Objectives](policies/0000.md)
-       * [0000 - Mission and Functions](policies/0000/0000.md)
+       * [0000 - Mission](policies/0000/0000.md)
        * 0200 - Goals
 * [Section 9000 - Bylaws of the Board](policies/9000.md)
    * [9000 - Role of the Board and Members (Powers, Purposes, Duties)](policies/9000/9000.md)

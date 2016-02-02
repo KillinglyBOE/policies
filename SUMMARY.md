@@ -5,6 +5,7 @@
        * [0000 - Mission](policies/0000/0000.md)
        * [0200 - Goals](policies/0000/0200.md)
        * [0400 - Objectives](policies/0000/0400.md)
+       * 0521 - Nondiscrimination
 * [Section 9000 - Bylaws of the Board](policies/9000.md)
    * [9000 - Role of the Board and Members (Powers, Purposes, Duties)](policies/9000/9000.md)
    * [9010 - Limits of Authority](policies/9000/9010.md)

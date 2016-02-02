@@ -9,7 +9,7 @@
        * [0521.1 - Grievance Procedure for Section 504, Title IX, and Title VII Regulations](policies/0000/0521-1.md)
        * [0521.A - Discrimination Grievance Form](policies/0000/0521-A.md)
        * [0600 - Monitoring/Reporting: State/District](policies/0000/0600.md)
-   * Section 7000 - Construction
+   * [Section 7000 - Construction](policies/7000.md)
 * [Section 9000 - Bylaws of the Board](policies/9000.md)
    * [9000 - Role of the Board and Members (Powers, Purposes, Duties)](policies/9000/9000.md)
    * [9010 - Limits of Authority](policies/9000/9010.md)

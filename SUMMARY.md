@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](INTRODUCTION.md)
+   * Section 3000 - Business & Non-Instructional Operations
 * [Section 0000 - Missions/Goals/Objectives](policies/0000.md)
    * [0000 - Mission](policies/0000/0000.md)
    * [0200 - Goals](policies/0000/0200.md)

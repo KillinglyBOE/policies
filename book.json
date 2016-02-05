@@ -1,4 +1,7 @@
 {
   "title": "Killingly Board of Education Policies",
-  "language": "en"
+  "language": "en",
+  "structure": {
+    "readme": "INTRODUCTION.md"
+  }
 }

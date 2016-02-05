@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](INTRODUCTION.md)
 * [Section 1000 - Community Relations](policies/1000.md)
    * [1110.1 - Parent Involvement](policies/1000/1110-1.md)
    * [1110.3 - Communication with the Public](policies/1000/1110-3.md)

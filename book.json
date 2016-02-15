@@ -3,5 +3,9 @@
   "language": "en",
   "structure": {
     "readme": "INTRODUCTION.md"
-  }
+  },
+  "plugins": [
+    "printlinks",
+    "versioning"
+  ]
 }

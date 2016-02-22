@@ -201,10 +201,8 @@
    * [5124.2 - Release of Report Cards](policies/5000/5124-2.md)
    * [5125 - Student Records; Confidentiality](policies/5000/5125.md)
    * [5125 Form 1 - Sample Notification of Rights Under FERPA](policies/5000/5125-form1.md)
-   * [5125 Form 2 - Notification of Release of Student Records Pursuant to Court Or
-der or Subpoena](policies/5000/5125-form2.md)
-   * [5125 Form 3 - Application to Review Student's Records and Consent Thereto by 
-Parent or Student](policies/5000/5125-form3.md)
+   * [5125 Form 2 - Notification of Release of Student Records Pursuant to Court Or der or Subpoena](policies/5000/5125-form2.md)
+   * [5125 Form 3 - Application to Review Student's Records and Consent Thereto by Parent or Student](policies/5000/5125-form3.md)
    * [5125 Form 4 - Application to Review Student's Records By Parties Entitled Thereto Without Consent by Parent or Student](policies/5000/5125-form4.md)
    * [5126 - Awards for Achievement](policies/5000/5126.md)
    * [5127 - Graduation Procedures and Ceremonies](policies/5000/5127.md)

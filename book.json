@@ -4,6 +4,10 @@
   "structure": {
     "readme": "INTRODUCTION.md"
   },
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css"
+  },
   "plugins": [
     "printlinks",
     "versioning"

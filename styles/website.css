@@ -1,0 +1,10 @@
+#edit-link { display: none }
+
+blockquote {
+	padding-top: 10px !important;
+	border: 1px solid #000000;
+	border-left: 1px solid #000000 !important;
+	background: #ccf;
+	color: #333 !important;
+}
+

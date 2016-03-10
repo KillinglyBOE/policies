@@ -332,6 +332,8 @@
    * [6164.4 - Identification of Special Needs and Abilities](policies/6000/6164-4.md)
    * [6171 - Special Education](policies/6000/6171.md)
    * [6172.3 - Home Schooling](policies/6000/6172-3.md)
+   * [6172.6 - Distance Learning and Virtual/Online Classes](policies/6000/6172-6.md)
+   * [6172.61 - Credit for Online Courses](policies/6000/6172-61.md)
    * [6173 - Homebound Instruction](policies/6000/6173.md)
    * [6174 - Summer School](policies/6000/6174.md)
    * [6176 - Career and Vocational Education](policies/6000/6176.md)

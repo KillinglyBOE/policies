@@ -9,7 +9,6 @@
     "pdf": "styles/pdf.css"
   },
   "plugins": [
-    "printlinks",
-    "versioning"
+    "printlinks"
   ]
 }

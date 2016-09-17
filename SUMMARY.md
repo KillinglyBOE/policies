@@ -69,6 +69,7 @@
    * [3250 - Materials/Service Fees, Charges](policies/3000/3250.md)
    * [3260 - Sales & Disposal of Books, Equipment & Supplies](policies/3000/3260.md)
    * [3280 - Gifts, Grants and Bequests](policies/3000/3280.md)
+   * [3280.1 - Computer / Technology Donation](policies/3000/3280-1.md)
    * [3281 - Student Fund-Raising Activities](policies/3000/3281.md)
    * [3282 - Receipt of Funds](policies/3000/3282.md)
    * [3313 - Relations with Vendors](policies/3000/3313.md)
